@@ -6,7 +6,7 @@
 | 4 | Remove duplicates from Sorted array | Codestudio | <a href="https://www.naukri.com/code360/problems/remove-duplicates-from-sorted-array_1102307" >Link</a> | [remove_duplicates.java](remove_duplicates.java) | ✅ |
 | 5 | Left Rotate an array by one place | Codestudio | <a href="https://www.naukri.com/code360/problems/left-rotate-an-array-by-one_5026278">Link</a> | [rotate1.java](rotate1.java) | ✅ |
 | 6 | Left rotate an array by D places | Codestudio | <a href="https://www.naukri.com/code360/problems/rotate-array_1230543">Link</a> | [rotateD.java](rotateD.java) | ❌❌ |
-| 7 | Move Zeros to end | Codestudio | <a href="https://www.naukri.com/code360/problems/ninja-and-the-zero-s_6581958">Link</a> | [zeroes_to_end.java](zeroes_to_end.java) | ❌ |
+| 7 | Move Zeros to end | Codestudio | <a href="https://www.naukri.com/code360/problems/ninja-and-the-zero-s_6581958">Link</a> | [zeroes_to_end.java](zeroes_to_end.java) | ✅ |
 | 9 | Linear Search | Codestudio | <a href="https://www.naukri.com/code360/problems/linear-search_6922070">Link</a> | [linear_search.java](linear_search.java) | ❌ |
 | 10 | Find the Union | Codestudio | <a href="https://www.naukri.com/code360/problems/sorted-array_6613259">Link</a> | [union.java](union.java) | ❌ |
 | 11 | Missing Number | Leetcode | <a href="https://leetcode.com/problems/missing-number">Link</a> | [missing_number.java](missing_number.java) | ❌ |
