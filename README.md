@@ -72,3 +72,4 @@
 | 71 | Implment Stack Using Queue | Leetcode | <a href="https://leetcode.com/problems/implement-stack-using-queues/">Link</a> | [stack_using_queue.java](stack_using_queue.java) | ❌ |
 | 72 | Implment Queue Using Stack | Leetcode | <a href="https://leetcode.com/problems/implement-queue-using-stacks/">Link</a> | [queue_using_stack.java](queue_using_stack.java) | ❌ |
 | 73 |  Reverse The Array | Codestudio | <a href="https://www.naukri.com/code360/problems/reverse-the-array_1262298">Link</a> | [reverse_at_m.java](reverse_at_m.java) | ❌ |
+| 74 | Count Elements With Maximum Frequency | Leetcode | <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/">Link</a> | [count_maxFreq.java](count_maxFreq.java) | ❌ |
