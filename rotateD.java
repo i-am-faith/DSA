@@ -1,28 +1,22 @@
 import java.util.*;
 
-public class rotateD {
+public class Solution {
 	public static ArrayList<Integer> rotateArray(ArrayList<Integer> arr, int k) {
         int n = arr.size();
-        int d = k % n;
-        if(d == 0) return arr;
-        List<Integer> temp = new ArrayList<>(d);
-        //adding eleemnts upto d into temp
-        for(int i=0;i<d;i++)
+        k = k % n;
+        ArrayList<Integer> res = new ArrayList<>();
+        //Store Right Elements
+        for(int i=k;i<n;i++)
         {
-            temp.add(arr.get(i));
+            res.add(arr.get(i));
         }
-        //shifting last element to first
-        for(int i=d;i<n;i++)
+
+        //Store Left Elements
+        for(int i=0;i<k;i++)
         {
-            arr.set(i-d, arr.get(i));
+            res.add(arr.get(i));
         }
-        //shifting first element to last
-        for(int i=0;i<d;i++)
-        {
-            arr.set(n-d+i, temp.get(i));
-        }
-        return arr;
+
+        return res;
     }
 }
-
-
