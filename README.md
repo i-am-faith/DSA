@@ -74,3 +74,4 @@
 | 73 |  Reverse The Array | Codestudio | <a href="https://www.naukri.com/code360/problems/reverse-the-array_1262298">Link</a> | [reverse_at_m.java](reverse_at_m.java) | ❌ |
 | 74 | Count Elements With Maximum Frequency | Leetcode | <a href="https://leetcode.com/problems/count-elements-with-maximum-frequency/">Link</a> | [count_maxFreq.java](count_maxFreq.java) | ❌ |
 | 75 | Count subarrays with a condition | Leetcode | <a href="https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/">Link</a> | [count_sub_contd.java](count_sub_contd.java) | ❌ |
+| 76 | First Missing Positive | Codestudio | <a href="https://www.naukri.com/code360/problems/first-missing-positive_699946">Link</a> | [missing_pos.java](missing_pos.java) | ❌ |
