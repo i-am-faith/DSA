@@ -77,3 +77,4 @@
 | 76 | First Missing Positive | Codestudio | <a href="https://www.naukri.com/code360/problems/first-missing-positive_699946">Link</a> | [missing_pos.java](missing_pos.java) | ❌ |
 | 77 | Spitting a String | Leetcode | <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">Link</a> | [spit_string.java](spit_string.java) | ❌ |
 | 78 | Hate Equality | Codestudio | <a href="https://www.naukri.com/code360/problems/hate-equality_11334976">Link</a> | [not_equal.java](not_equal.java) | ❌ |
+| 79 | Arrange the numbers | Codestudio |<a href="https://www.naukri.com/code360/problems/arrange-the-numbers_11197578">Link</a> | [arrange.java](arrange.java) | ❌ |
