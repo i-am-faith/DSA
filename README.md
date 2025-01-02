@@ -78,3 +78,4 @@
 | 77 | Splitting a String | Leetcode | <a href="https://leetcode.com/problems/maximum-score-after-splitting-a-string/">Link</a> | [split_string.java](split_string.java) | ❌ |
 | 78 | Hate Equality | Codestudio | <a href="https://www.naukri.com/code360/problems/hate-equality_11334976">Link</a> | [not_equal.java](not_equal.java) | ❌ |
 | 79 | Arrange the numbers | Codestudio |<a href="https://www.naukri.com/code360/problems/arrange-the-numbers_11197578">Link</a> | [arrange.java](arrange.java) | ❌ |
+| 80 | Count Vowels Strings In Range | Leetcode | <a href="https://leetcode.com/problems/count-vowel-strings-in-ranges">Link</a> | [cnt_vowel_range.java](cnt_vowel_range.java) | ❌ |
