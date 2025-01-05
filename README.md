@@ -80,3 +80,4 @@
 | 79 | Arrange the numbers | Codestudio |<a href="https://www.naukri.com/code360/problems/arrange-the-numbers_11197578">Link</a> | [arrange.java](arrange.java) | ❌ |
 | 80 | Count Vowels Strings In Range | Leetcode | <a href="https://leetcode.com/problems/count-vowel-strings-in-ranges">Link</a> | [cnt_vowel_range.java](cnt_vowel_range.java) | ❌ |
 | 81 | Santa Claus Gift Distribute | Codestudio | <a href="https://www.naukri.com/code360/problems/santa-claus-and-his-magic-bag_985284">Link</a> | [santa_distribute.java](santa_distribute.java) | ❌ |
+| 82 | Check Even Partitioning | Codestudio | <a href="https://www.naukri.com/code360/problems/check-even-partitioning_975267">Link</a> | [even_partition.java](even_partition.java) | ❌ |
