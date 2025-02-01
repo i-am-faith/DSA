@@ -82,3 +82,4 @@
 | 81 | Santa Claus Gift Distribute | Codestudio | <a href="https://www.naukri.com/code360/problems/santa-claus-and-his-magic-bag_985284">Link</a> | [santa_distribute.java](santa_distribute.java) | ❌ |
 | 82 | Check Even Partitioning | Codestudio | <a href="https://www.naukri.com/code360/problems/check-even-partitioning_975267">Link</a> | [even_partition.java](even_partition.java) | ❌ |
 | 83 | Count Palindrome Words In A String | Codestudio | <a href="https://www.naukri.com/code360/problems/count-palindrome-words-in-a-sentence_975378">Link</a> | [count_palidrome.java](count_palidrome.java) | ❌ |
+| 84 | Set Matrix Zeroes | Leetcode | <a href="https://leetcode.com/problems/set-matrix-zeroes/">Link</a> | [set_matrix0.java](set_matrix0.java) | ❌ |
